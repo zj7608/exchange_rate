@@ -1,0 +1,8 @@
+  host: "127.0.0.1",
+  user: "root",
+  password: "123456",
+  database: "test",
+
+server：backend->run: node app.js
+
+web：frontend->run: ng s -o
